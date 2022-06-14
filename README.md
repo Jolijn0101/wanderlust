@@ -25,26 +25,26 @@ HTML, CSS and Javascript
 
 ### For mobile
 
-  <img src="./screenshots/homepage-mobile.png" alt="" style="width: 40%" />
+  <img src="./screenshots/homepage-mobile.png" alt="" style="width: 40%; border: solid gray 2px" />
   <br><br>
-  <img src="./screenshots/mobile.png" alt="" style="width: 40%" />
+  <img src="./screenshots/mobile.png" alt="" style="width: 40%; border: solid gray 2px" />
 
 <br><br>
 
 ### For ipad
 
-<img src="./screenshots/homepage-ipad-horizontal.png" alt="" style="width: 40%" />
+<img src="./screenshots/homepage-ipad-horizontal.png" alt="" style="width: 40%; border: solid gray 2px" />
 <br><br>
-<img src="./screenshots/ipad-vertical.png" alt="" style="width: 40%" />
+<img src="./screenshots/ipad-vertical.png" alt="" style="width: 40%; border: solid gray 2px" />
 <br><br>
-<img src="./screenshots/ipad-horizontal.png" alt="" style="width: 40%" />
+<img src="./screenshots/ipad-horizontal.png" alt="" style="width: 40%; border: solid gray 2px" />
 
 <br><br>
 
 ### For screens
 
- <img src="./screenshots/screen-homepage.png" alt="" style="width:100%"/>
- <img src="./screenshots/large-screen.png" alt="" style="width:100%"/>
+ <img src="./screenshots/screen-homepage.png" alt="" style="width:100%; border: solid gray 2px"/>
+ <img src="./screenshots/large-screen.png" alt="" style="width:100%; border: solid gray 2px"/>
 
 <br><br>
 
