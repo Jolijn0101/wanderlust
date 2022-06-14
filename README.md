@@ -25,26 +25,23 @@ HTML, CSS and Javascript
 
 ### For mobile
 
-<div style="display: inline-flex; align-items: flex-start;  justify-content: space-around;">
   <img src="./screenshots/homepage-mobile.png" alt="" style="width: 40%" />
+  <br><br>
   <img src="./screenshots/mobile.png" alt="" style="width: 40%" />
-  </div>
 
-<br>
+<br><br>
 
 ### For ipad
 
 <img src="./screenshots/homepage-ipad-horizontal.png" alt="" style="width: 40%" />
 <br><br>
-
-<div style="display: inline-flex; align-items: flex-start;  justify-content: space-between;">
-  <img src="./screenshots/ipad-vertical.png" alt="" style="width: 40%" />
-  <img src="./screenshots/ipad-horizontal.png" alt="" style="width: 40%" />
-  </div>
+<img src="./screenshots/ipad-vertical.png" alt="" style="width: 40%" />
+<br><br>
+<img src="./screenshots/ipad-horizontal.png" alt="" style="width: 40%" />
 
 <br><br>
 
-### for screens
+### For screens
 
  <img src="./screenshots/screen-homepage.png" alt="" style="width:100%"/>
  <img src="./screenshots/large-screen.png" alt="" style="width:100%"/>
