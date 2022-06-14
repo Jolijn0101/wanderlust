@@ -25,26 +25,21 @@ HTML, CSS and Javascript
 
 ### For mobile
 
-  <img src="./screenshots/homepage-mobile-edge.png" alt="" style="width: 40%; border: solid gray 2px" />
+  <img src="./project_images/edge/homepage-mobile-edge.png" alt="" />
   <br><br>
-  <img src="./screenshots/mobile-edge.png" alt="" style="width: 40%; border: solid gray 2px" />
-
+  <img src="./project_images/edge/mobile-edge.png" alt=""/>
+<img src="./project_images/edge/homepage-ipad-horizontal-edge.png" alt="" />
 <br><br>
-
-### For ipad
-
-<img src="./screenshots/homepage-ipad-horizontal-edge.png" alt="" style="width: 40%; border: solid gray 2px" />
+<img src="./project_images/edge/ipad-vertical-edge.png" alt="" />
 <br><br>
-<img src="./screenshots/ipad-vertical-edge.png" alt="" style="width: 40%; border: solid gray 2px" />
-<br><br>
-<img src="./screenshots/ipad-horizontal-edge.png" alt="" style="width: 40%; border: solid gray 2px" />
+<img src="./project_images/edge/ipad-horizontal-edge.png" alt="" />
 
 <br><br>
 
 ### For screens
 
- <img src="./screenshots/screen-homepage-edge.png" alt="" style="width:100%; border: solid gray 2px"/>
- <img src="./screenshots/large-screen-edge.png" alt="" style="width:100%; border: solid gray 2px"/>
+ <img src="./project_images/edge/screen-homepage-edge.png" alt=""/>
+ <img src="./project_images/edge/large-screen-edge.png" alt=""/>
 
 <br><br>
 
